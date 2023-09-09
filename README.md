@@ -1,3 +1,55 @@
 # sirius_recsys_case
-Отборочное задание на смену в Сириус 2023. Анализ данных и модели находятся в одном файле intro_task.ipynb
+
+<!-- ABOUT THE PROJECT -->
+## Отборочное задание на смену в Сириус 2023
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [✓] EDA данных
+- [✓] Базовые модели: Implicit, LightFM
+- [✓] EDA рекоммендаций базовых моделей
+- [↗] Двухэтапная модель
+- [ ] Нейросеть
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTACT -->
+## Contact
+
+Telegram - [@annvasileeva](https://t.me/annvasileeva) 
+
+Project Link: [https://github.com/ann-vasileeva/sirius_recsys_case](https://github.com/ann-vasileeva/sirius_recsys_case)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Ссылки на используемые материалы
+
+* [MTC. Your first recsys](https://ods.ai/tracks/mts-recsys-df2020)
+* [RecSys 2022-2023](http://wiki.cs.hse.ru/RecSys_2022_2023)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 
