@@ -16,7 +16,7 @@
 - [✓] EDA данных
 - [✓] Базовые модели: Implicit, LightFM
 - [✓] EDA рекоммендаций базовых моделей
-- [♻] Двухэтапная модель: LightFM + Catboost 
+- [✓] Двухэтапная модель: LightFM + Catboost 
 - [➡] Нейросеть
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
